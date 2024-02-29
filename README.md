@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Rue Ccarita👋</h1>
 </div>
 <div align="center">
-  <img src="https://i.ibb.co/ZxBxFXd/Caritaj.png" width=100%>
+  <img src="https://i.ibb.co/NKwXDRP/Caritaj.jpg" width=100%>
 </div>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
