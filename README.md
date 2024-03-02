@@ -1,8 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="text-align: center;">
+<div align="center">
     <h1>Hola, soy Rue Ccarita</h1>
-  </div>
-  <iframe src="https://giphy.com/embed/pGpmvFTL2rC1g52rew" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 <div align="center">
@@ -136,7 +133,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <div style="display:flex; justify-content:center">
 <a href="https://github.com/Caritaj">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caritaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Caritaj&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="370px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Caritaj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="370px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Caritaj&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
