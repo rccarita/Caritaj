@@ -21,11 +21,11 @@
     </a>
 </div>
 
-🌐 Especializado en la creación de interfaces de usuario interactivas y atractivas para aplicaciones web.
-💻 Experto en HTML, CSS y JavaScript, con experiencia en frameworks como Angular, React.
-🎨 Apasionado por el diseño y la experiencia del usuario, buscando siempre crear productos que sean intuitivos y visualmente atractivos.
-🔧 Familiarizado con herramientas de desarrollo web como Git, Webpack y npm para optimizar el flujo de trabajo y la productividad.
-🚀 Siempre buscando aprender nuevas tecnologías y mantenerse al día con las últimas tendencias en el desarrollo web.
+##### 🌐 Especializado en la creación de interfaces de usuario interactivas y atractivas para aplicaciones web.
+##### 💻 Experto en HTML, CSS y JavaScript, con experiencia en frameworks como Angular, React.
+##### 🎨 Apasionado por el diseño y la experiencia del usuario, buscando siempre crear productos que sean intuitivos y visualmente atractivos.
+##### 🔧 Familiarizado con herramientas de desarrollo web como Git, Webpack y npm para optimizar el flujo de trabajo y la productividad.
+##### 🚀 Siempre buscando aprender nuevas tecnologías y mantenerse al día con las últimas tendencias en el desarrollo web.
 
 
 ### 🏆 Skills
