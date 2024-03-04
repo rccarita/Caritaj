@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hola, soy Rue Ccarita</h1>
+    <h1>Hola, soy Rue Ccarita 👋</h1>
 </div>
 
 <div align="center">
@@ -21,9 +21,14 @@
     </a>
 </div>
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+🌐 Especializado en la creación de interfaces de usuario interactivas y atractivas para aplicaciones web.
+💻 Experto en HTML, CSS y JavaScript, con experiencia en frameworks como Angular, React.
+🎨 Apasionado por el diseño y la experiencia del usuario, buscando siempre crear productos que sean intuitivos y visualmente atractivos.
+🔧 Familiarizado con herramientas de desarrollo web como Git, Webpack y npm para optimizar el flujo de trabajo y la productividad.
+🚀 Siempre buscando aprender nuevas tecnologías y mantenerse al día con las últimas tendencias en el desarrollo web.
 
-### Skills
+
+### 🏆 Skills
 <div>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="ccs3">
@@ -50,7 +55,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 </div>
 
 
-## Proyectos *bombitas*
+### 💣 Proyectos
 <table>
 <tr>
 <td width="50%">
@@ -71,20 +76,19 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Plataforma Workflow</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/Caritaj" target="_blank"><img src="https://i.ibb.co/yf4pLt8/fondo-2.png " width="400" alt="Plataforma Workflow"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/Caritaj" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<a href="https://feature-133ucr2023.d2d4hnjbos5d6q.amplifyapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/-ver%20Pagina-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>es una aplicación diseñada para ayudar a las empresas a administrar y controlar los prospectos que <strong> desean solicitar créditos o servicios financieros a través de Caja ICA.</strong> La aplicación permite a los usuarios registrar prospectos de manera eficiente y asignarles roles específicos para su gestión.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -93,35 +97,37 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">GNSIS Update Series</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/Caritaj" target="_blank"><img src="https://i.ibb.co/2c7vp7W/fondo-3-1.png" width="400" alt="Curso intermedio Android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/Caritaj" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/-ver%20Pagina-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Se mejoro la gestión de stock de productos mediante la <strong> implemetación de series de productos </strong>, para tener un mayor control sobre los productos que se compran, venden y se transfieren entre almacenes y tiendas.
+
+</p>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Pokedex Pokemón</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/Caritaj/Pokeapi" target="_blank"><img src="https://i.ibb.co/ct7pDkT/pokedex-fondo.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<a href="https://github.com/Caritaj/Pokeapi" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+<a href="https://github.com/Caritaj/Pokeapi" target="_blank">
+<img src="https://img.shields.io/badge/-ver%20Pagina-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>es una aplicación web desarrollada en Angular que aprovecha la  <strong> API de Pokémon para crear un completo Pokédex digital. </strong> Esta aplicación permite a los usuarios explorar y descubrir información detallada sobre diferentes Pokémon, incluyendo sus estadísticas, habilidades, tipos y más.</p>
 </div>
                                                                                       
 </td>  
@@ -129,7 +135,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <div align="center">
 <a href="https://github.com/Caritaj">
