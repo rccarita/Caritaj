@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.ibb.co/6HbyKmX/Caritaj2.png" width=100%>
+  <img src="https://i.ibb.co/1TX44hm/hero-bg.png" width=100%>
 </div>
 
 <div>
